@@ -1,0 +1,41 @@
+Gm# -- Game Number
+Which game out of all played by this team.
+
+Date -- A number in parentheses indicates which game of a doubleheader.
+Click dates for box scores of games or standings on this day.
+
+   -- Home or Away Game
+@ means it is an away game, blank means home.
+
+W/L -- Win/Loss/Tie
+-wo indicates it was a walkoff win or loss. May miss some of those pre-1973, and none before 1940.
+
+R -- Runs Scored/Allowed
+
+RA -- Runs Allowed
+
+Inn -- Innings
+Only shown if something other than 9 innings were played.
+
+W-L -- Win Loss Record
+Team’s overall record after this game.
+
+GB -- Games Back of Division/League Leader
+Computed as games over .500 of leader (W-L) minus games over .500 of team divided by two.
+Typically computed at the end of play for a particular day.
+Blank for 1st game of DH.
+
+Time -- Time of Game
+
+D/N -- Day or Night Game
+Determined by the start time of the game as stated by RetroSheet.
+We rely on their designation here.
+
+Attendance -- Attendance
+Typically, tickets sold in home games.
+
+Streak -- Win Loss Streak
++ means a winning streak, - means a losing streak.
+
+Orig. Scheduled -- Originally Scheduled Game Date
+If this is a makeup game, the original game date. The reason for the reschedule is in parentheses.
